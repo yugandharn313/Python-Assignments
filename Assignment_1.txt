@@ -1,0 +1,79 @@
+Question 1
+
+Solution:
+* is an expression
+
+'hello' is a value
+
+-87.8 is a value
+
+- is an expression
+
+/ is an expression
+
++ is an expression
+
+6 is a value
+
+Question 2
+
+Solution:
+Variables are symbols used to store data
+
+strings are type of information that we want to store in variables
+
+Question 3
+
+Solution:
+ integers- It contains positive or negative integers.It is represented by int class
+ float-it is real number with floating point representation.It is specified by a decimal point.It is represented by float class
+ string-it is a collection of one or more characters put inside a single quote or double quote or triple quote.It is represented by str class
+
+Question 4
+
+Solution:
+An expression was made up of operators and operands that is interpreted to produce some other value.
+
+Question 5
+
+Solution:
+
+Expression evaluates to a value
+
+A statement executes something
+
+Question 6
+
+Solution:
+
+23
+
+Question 7
+
+Solution:
+'spamspamspam'
+'spamspamspam'
+
+Question 8
+
+Solution
+
+100 is invalid variable name because variable name should not  start with numeric digits
+
+Eggs is valid variable name because variable name starts with character
+
+Question 9
+
+Solution
+
+int() function gives the integer version of a value
+
+float() function gives the float version of a value
+
+str() function gives the string version of a value
+
+Question 10
+
+Solution:
+Concatenation will give us error because concatenation can be performed only on strings
+It can be fixed like this:'i have eaten'+ str(99) +'burritos'
