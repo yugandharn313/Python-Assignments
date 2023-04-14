@@ -1,0 +1,34 @@
+1.Empty List
+
+2.spam[2]='hello'
+
+3.'d'
+
+4.'d'
+
+5.['a','b']
+
+6.1
+
+7.[3.14, 'cat',11,'cat',True,99]
+
+8.[3.14, 11, 'cat', True, 99]
+
+9. + for concatenation * for replication
+
+10.Insert is used to insert values in a list at a specific index but append always insert values at the end of the list.
+
+11.remove() and pop()
+
+12. List and string both are used to store value /data and both are sequence
+
+13.Lists are mutable and tuples are immutable.
+
+14.a=(42)
+
+15.tuple(list) to get the list values in tuple form and list(tuple) to get the tuple values in list form.
+
+16.element of the list
+
+17.In the case of deep copy an object is copied into another object so changes in original object doesn't reflect in copied object .
+   In the case of copy reference of an object is copied into another object so changes in original object reflects in copied object.

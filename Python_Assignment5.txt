@@ -1,0 +1,19 @@
+1.a={}
+
+2.{'foo':42}
+
+3.Items in list are ordered but in dictionary items are unordered.
+
+4.KeyError
+
+5.'cat' in spam and 'cat' in spam.keys() checks whether the cat key is key of the dictionary or not
+
+6.'cat' in spam checks whether the cat key is present or not in the dictionary but 'cat' in spam.values() checks whether the cat is a value of the dictionary.
+
+7.spam ={'cat':100}
+spam.setdefault('color','black')
+spam
+
+8.import pprint
+ pprint(dictionaryvariable)
+ 
